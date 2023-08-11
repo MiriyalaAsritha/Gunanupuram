@@ -1,0 +1,83 @@
+<DOCTYPE html>
+<html>
+<head>
+<title>TIME TABLES</title>
+<body background="https://img.freepik.com/free-vector/office-interior-open-space-flat-design-vector-illustration-business-people-standing-talking-modern-meeting-room-businessmen-businesswoman-conference-hall_126523-3094.jpg?w=2000">
+<style>
+table, th,td
+{
+border:2px solid black;
+text-align:center;
+border-color:brown;
+margin-left:auto;
+margin-right:auto;
+background-color:pink;
+width:100px;
+height:100;
+padding:50px;
+}
+body{
+text-align:center;
+}
+</style>
+</head>
+<body>
+<h1>SUBJECTS AND TEACHERS</h1>
+<table><center>
+<tr>
+<th> s.no</th>
+<th> name</th>
+<th> subject</th>
+<th> photo</th>
+</tr>
+<tr>
+<td> 1</td>
+<td> sagar</td>
+<td> Telugu</td>
+<td><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrggIP1tphFNHqBURDu-6QY1TiSJVXQy0Uuw&usqp=CAU">image</a></td>
+</tr>
+<tr>
+<td> 2</td>
+<td> Aruna</td>
+<td> Hindi</td>
+<td><a href="photo2.jpg">image</a></td>
+</tr>
+<tr>
+<td> 3</td>
+<td>Lakshmi</td>
+<td> English</td>
+<td><a href="photo3.jpg">image</a></td>
+</tr>
+<tr>
+<td> 4</td>
+<td> Prasanna</td>
+<td> Maths</td>
+<td><a href="photo4.jpg">image</a></td>
+</tr>
+<tr>
+<td> 5</td>
+<td> santhosh</td>
+<td> Physics</td>
+<td><a href="photo1.jpg">image</a></td>
+</tr>
+<tr>
+<td> 6</td>
+<td> Asritha</td>
+<td> Chemistry</td>
+<td><img scr="photo6.jpg" alt="photo6"></td>
+</tr>
+<tr>
+<td> 7</td>
+<td> Harika</td>
+<td> Social</td>
+<td><img scr="photo7.jpg" alt="photo7"></td>
+</tr>
+<tr>
+<td> 8</td>
+<td> Surendhra</td>
+<td> Sports</td>
+<td><img scr="photo8.jpg" alt="photo8"></td>
+</tr>
+</table>
+</body>
+</html>
